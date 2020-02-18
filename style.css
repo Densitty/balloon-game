@@ -15,7 +15,7 @@ body {
 	width: 100px;
 	height: 200px;
 	position: absolute;
-	top: 100%;
+	top: 100vh;
 }
 
 .green {

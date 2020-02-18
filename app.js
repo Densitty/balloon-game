@@ -112,7 +112,7 @@ document.querySelector('.restart').addEventListener('click', e => {
     document.querySelector('.total-shadow').style.display = 'none'
     document.querySelector('.win').style.display = 'none'
     document.querySelector('.lose').style.display = 'none'
-    // to ensure that the game starts
+    // to enusre that the game starts
     num = 0
     startGame()
 })
